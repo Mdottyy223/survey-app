@@ -62,7 +62,7 @@ module.exports = configure(function ( ctx ) {
 
       vueRouterMode: 'history', // available values: 'hash', 'history'
       env: {
-        SERVER_URL: ctx.dev ? 'http://localhost:3000' : http//'ssh -o ServerAliveInterval=60 -i ~/Desktop/BAHSWebServer.pem ubuntu@44.211.219.100'
+        SERVER_URL: ctx.dev ? 'http://localhost:3000' : 'http//44.211.219.100',
         CREATOR_NAME: 'Miguel V',
         CREATOR_EMAIL: 'miguel.v0062@icloud.com',
         LINKEDIN: 'https://www.linkedin.com/in/miguelvargas06/'
