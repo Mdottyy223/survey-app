@@ -68,6 +68,7 @@ module.exports = configure(function ( ctx ) {
         LINKEDIN: 'https://www.linkedin.com/in/miguelvargas06/'
       },
       distDir: '../server/public'
+      
       // vueRouterBase,
       // vueDeptools,
       // vueOptionsAPI: false,
